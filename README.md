@@ -1,6 +1,6 @@
 # Casafy
 
-> Casafy - Vue Nuxt App Landing One Page Template
+> Casafy - 2v of Home made with Vue
 
 ## Build Setup
 
@@ -20,3 +20,4 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+for more information, visit [Casafy](https://casafy.com.br) or send an e-mail to [Guerra](mailto:fernando@casafy.com.br)
